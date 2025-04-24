@@ -10,8 +10,10 @@
 
 - [銀英傳討論與產生 prompt](conversation/銀英傳討論與產生prompt.md)
 
-- [判斷加入 openAI 之可能](conversation/判斷加入openAI之可能.md)
+- [判斷加入 openAI 之可能性](conversation/判斷加入openAI之可能.md)
 
 - [個人能力推估分析](conversation/個人能力推估分析.md)
 
 - [記憶功能與對話分離](conversation/記憶功能與對話分離.md)
+
+- [語言漂移到語言孤島，再到 AI 倫理](conversation/語言漂移到語言孤島，再到AI倫理.md)

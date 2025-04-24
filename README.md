@@ -14,6 +14,6 @@
 
 - [個人能力推估分析](conversation/個人能力推估分析.md)
 
-- [記憶功能與對話分離](conversation/記憶功能與對話分離.md)
+- [ChatGPT 的記憶功能與使用者對話分離](conversation/ChatGPT的記憶功能與使用者對話分離.md)
 
 - [語言漂移到語言孤島，再到 AI 倫理](conversation/語言漂移到語言孤島，再到AI倫理.md)

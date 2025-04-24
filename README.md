@@ -10,7 +10,7 @@
 
 - [銀英傳討論與產生 prompt](conversation/銀英傳討論與產生prompt.md)
 
-- [判斷加入 openAI 之可能性](conversation/判斷加入openAI之可能.md)
+- [判斷加入 OpenAI 之可能性](conversation/判斷加入OpenAI之可能性.md)
 
 - [個人能力推估分析](conversation/個人能力推估分析.md)
 

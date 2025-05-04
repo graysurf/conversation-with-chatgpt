@@ -15,3 +15,12 @@
 1. 從 [language-lab/LLM語義識別能力實驗](./language-lab/LLM語義識別能力實驗.md) 以及 [language-lab/語義強者白皮書](/language-lab/語義強者白皮書.md) 開始，了解本專案的語義深度。
 2. 探索 [conversation/](./conversation/)，體驗實際對話生成語言操作的過程。
 3. 若需應用 LLM，可參考 [prompt-kit/](./prompt-kit/) 中的實用提示語。
+
+## 🪪 License
+
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This repository is dedicated to the public domain under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
+You are free to copy, modify, distribute, and use any part of this work, even for commercial purposes, without asking for permission or giving credit.
+
+> This work is published from: Taiwan.

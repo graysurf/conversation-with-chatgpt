@@ -1,5 +1,5 @@
 ---
-title: 銀英傳討論與產生prompt
+title: 從銀英傳提煉 prompt：語場生成的起點
 tags:
   - 動漫
   - 哲學

@@ -19,4 +19,4 @@
 | ChatGPT的記憶功能與使用者對話分離 | [概覽](./topic/ChatGPT的記憶功能與使用者對話分離.topic.md) | [全文](./ChatGPT的記憶功能與使用者對話分離.md) | AI, LLM, 語場 |
 | 對我自身能力的推估分析 | [概覽](./topic/對我自身能力的推估分析.topic.md) | [全文](./對我自身能力的推估分析.md) | 自我探索, 語場 |
 | 評估自己加入OpenAI的可行性 | [概覽](./topic/評估自己加入OpenAI的可行性.topic.md) | [全文](./評估自己加入OpenAI的可行性.md) | AI, 自我探索 |
-| 銀英傳討論與產生prompt | [概覽](./topic/銀英傳討論與產生prompt.topic.md) | [全文](./銀英傳討論與產生prompt.md) | 動漫, 哲學, 自我探索 |
+| 從銀英傳提煉 prompt：語場生成的起點 | [概覽](./topic/從銀英傳提煉prompt：語場生成的起點.topic.md) | [全文](./從銀英傳提煉prompt：語場生成的起點.md) | 動漫, 哲學, 自我探索 |

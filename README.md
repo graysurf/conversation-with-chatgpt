@@ -49,7 +49,7 @@
 
 - [評估自己加入 OpenAI 的可行性](./conversation/topic/評估自己加入OpenAI的可行性.topic.md)
 
-- [銀英傳討論與產生 prompt](./conversation/topic/銀英傳討論與產生prompt.topic.md)
+- [從銀英傳提煉 prompt：語場生成的起點](./conversation/topic/從銀英傳提煉prompt：語場生成的起點.topic.md)
 
 ## 🪪 License
 

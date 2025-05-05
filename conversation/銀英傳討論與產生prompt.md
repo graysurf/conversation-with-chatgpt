@@ -1,3 +1,13 @@
+---
+title: 銀英傳討論與產生prompt
+tags:
+  - 動漫
+  - 哲學
+  - 自我探索
+created: 2025-04-23
+order: 1
+---
+
 # 銀英傳討論與產生prompt
 
 #### You:

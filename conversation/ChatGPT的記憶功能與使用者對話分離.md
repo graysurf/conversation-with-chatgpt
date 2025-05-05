@@ -1,3 +1,13 @@
+---
+title: ChatGPT的記憶功能與使用者對話分離
+tags:
+  - LLM
+  - AI
+  - 語場
+created: 2025-05-05
+order: 4
+---
+
 # ChatGPT的記憶功能與使用者對話分離
 
 #### You:

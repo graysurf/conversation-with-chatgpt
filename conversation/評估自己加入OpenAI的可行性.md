@@ -1,3 +1,12 @@
+---
+title: 評估自己加入OpenAI的可行性
+tags:
+  - AI
+  - 自我探索
+created: 2025-04-23
+order: 2
+---
+
 # 評估自己加入OpenAI的可行性
 
 #### You:

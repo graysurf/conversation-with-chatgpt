@@ -7,7 +7,6 @@
 - [conversation/](./conversation/)：實際對話中的語言反思、哲學探問、技術回應記錄。
 - [language-lab/](./language-lab/)：衍生性語言結構實驗與記憶模擬設定。適合探討 LLM 可操縱語義的範圍。
 - [prompt-kit/](./prompt-kit/)：可直接複用的 prompt 工具包與使用者提示語指南。
-- [archive/](./archive/)：匯出檔案、原始備份與可讀性歸檔。
 
 ## 推薦閱讀順序
 

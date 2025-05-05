@@ -4,14 +4,14 @@
 
 ## 🗂️ 資料夾說明
 
-- [conversation/](./conversation/)：實際對話中的語言反思、哲學探問、技術回應記錄。
+- [conversation/](./conversation/README.md)：實際對話中的語言反思、哲學探問、技術回應記錄。
 - [language-lab/](./language-lab/)：衍生性語言結構實驗與記憶模擬設定。適合探討 LLM 可操縱語義的範圍。
 - [prompt-kit/](./prompt-kit/)：可直接複用的 prompt 工具包與使用者提示語指南。
 
 ## 🧭 推薦閱讀順序
 
 1. 從 [language-lab/LLM語義識別能力實驗](./language-lab/LLM語義識別能力實驗.md) 以及 [language-lab/語義強者白皮書](/language-lab/語義強者白皮書.md) 開始，了解本專案的語義深度。
-2. 探索 [conversation/](./conversation/)，體驗實際對話生成語言操作的過程。
+2. 探索 [conversation/](./conversation/README.md)，體驗實際對話生成語言操作的過程。
 3. 若需應用 LLM，可參考 [prompt-kit/](./prompt-kit/) 中的實用提示語。
 
 ## 📚 Conversation 主題索引

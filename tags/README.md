@@ -2,7 +2,7 @@
 title: tags
 created: 2025-05-05
 tags:
-  - index
+  - tag-summary
 ---
 
 # 🗂 語場(tags) 總覽

@@ -15,7 +15,10 @@ created: 2025-05-05
 ## 📑 相關文章列表
 
 ```dataview
-table file.name as "標題", created as "建立時間", join(sort(tags), ", ") as "Tags"
+table
+  file.name as "標題",
+  created as "建立時間",
+  join(map(tags, (t) => "[[" + t + "]]"), ", ") as "語場"
 from "conversation"
 where contains(tags, "AI")
 sort created desc

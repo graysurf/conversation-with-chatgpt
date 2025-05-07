@@ -12,9 +12,9 @@ created: 2025-05-05
 
 ## 📑 相關文章列表
 
-| 標題 | 建立時間 | 語場 |
+| 標題 | 語場 | 時間 |
 |------|------------|--------|
-| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | 2025-05-05 | [LLM](/tags/LLM.md), [AI](/tags/AI.md), [語場](/tags/語場.md) |
-| [記憶不是關鍵，語場才是：GPT語用重構能力測試](/conversation/記憶不是關鍵，語場才是：GPT語用重構能力測試.md) | 2025-04-26 | [AI](/tags/AI.md), [語場](/tags/語場.md) |
-| [語言漂移到語言孤島，再到AI倫理](/conversation/語言漂移到語言孤島，再到AI倫理.md) | 2025-04-24 | [哲學](/tags/哲學.md), [AI](/tags/AI.md) |
-| [評估自己加入OpenAI的可行性](/conversation/評估自己加入OpenAI的可行性.md) | 2025-04-23 | [AI](/tags/AI.md), [自我探索](/tags/自我探索.md) |
+| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-05-05 |
+| [記憶不是關鍵，語場才是：GPT語用重構能力測試](/conversation/記憶不是關鍵，語場才是：GPT語用重構能力測試.md) | [AI](/tags/AI.md), [語場](/tags/語場.md) | 2025-04-26 |
+| [語言漂移到語言孤島，再到AI倫理](/conversation/語言漂移到語言孤島，再到AI倫理.md) | [AI](/tags/AI.md), [哲學](/tags/哲學.md) | 2025-04-24 |
+| [評估自己加入OpenAI的可行性](/conversation/評估自己加入OpenAI的可行性.md) | [AI](/tags/AI.md), [自我探索](/tags/自我探索.md) | 2025-04-23 |

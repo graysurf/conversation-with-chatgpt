@@ -11,6 +11,6 @@ tags:
 
 ## 📑 相關文章列表
 
-| 標題 | 建立時間 | 語場 |
+| 標題 | 語場 | 時間 |
 |------|------------|--------|
-| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | 2025-05-05 | [LLM](/tags/LLM.md), [AI](/tags/AI.md), [語場](/tags/語場.md) |
+| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-05-05 |

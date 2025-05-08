@@ -2,6 +2,9 @@
 
 本專案為使用者與 ChatGPT 長期語言對話與語義反思紀錄，內容涵蓋提示語設計、模型交互、記憶結構模擬與語用實驗。
 
+🚫 This repository does not train models, deploy APIs, or integrate Copilot.  
+🧠 It simply records my chaotic dialogues with GPT and the collapse of language fields in real-time reflection.
+
 ## 🗂️ 資料夾說明
 
 - [conversation/](./conversation/README.md)：實際對話中的語言反思、哲學探問、技術回應記錄。
@@ -24,7 +27,7 @@
 
 （依產生時間倒序排列，最新對話置頂）
 
-> 📚 註：目前標題以原始對話語境自然生成，未刻意統整風格。
+> 註：目前標題以原始對話語境自然生成，未刻意統整風格。
 > 如未來需要進行正式出版或大型整理，可再一次性調整語義密度與敘事連貫性。
 
 - [無需英雄的邏輯秩序：一位非蝙蝠俠型人才的職場現場論](./conversation/topic/無需英雄的邏輯秩序：一位非蝙蝠俠型人才的職場現場論.topic.md)

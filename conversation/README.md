@@ -18,7 +18,7 @@
 | 從武術比喻到投資市場：理解攻防、防禦、姿態的生存智慧 | [概覽](/conversation/topic/從武術比喻到投資市場：理解攻防、防禦、姿態的生存智慧.topic.md) | [全文](/conversation/從武術比喻到投資市場：理解攻防、防禦、姿態的生存智慧.md) | [PTT](/tags/PTT.md), [投資](/tags/投資.md) | 2025-04-28 |
 | 記憶不是關鍵，語場才是：GPT語用重構能力測試 | [概覽](/conversation/topic/記憶不是關鍵，語場才是：GPT語用重構能力測試.topic.md) | [全文](/conversation/記憶不是關鍵，語場才是：GPT語用重構能力測試.md) | [AI](/tags/AI.md), [語場](/tags/語場.md) | 2025-04-26 |
 | 語言漂移到語言孤島，再到AI倫理 | [概覽](/conversation/topic/語言漂移到語言孤島，再到AI倫理.topic.md) | [全文](/conversation/語言漂移到語言孤島，再到AI倫理.md) | [AI](/tags/AI.md), [哲學](/tags/哲學.md) | 2025-04-24 |
-| ChatGPT的記憶功能與使用者對話分離 | [概覽](/conversation/topic/ChatGPT的記憶功能與使用者對話分離.topic.md) | [全文](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-05-05 |
+| ChatGPT的記憶功能與使用者對話分離 | [概覽](/conversation/topic/ChatGPT的記憶功能與使用者對話分離.topic.md) | [全文](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-04-24 |
 | 對我自身能力的推估分析 | [概覽](/conversation/topic/對我自身能力的推估分析.topic.md) | [全文](/conversation/對我自身能力的推估分析.md) | [自我探索](/tags/自我探索.md), [語場](/tags/語場.md) | 2025-04-23 |
 | 評估自己加入OpenAI的可行性 | [概覽](/conversation/topic/評估自己加入OpenAI的可行性.topic.md) | [全文](/conversation/評估自己加入OpenAI的可行性.md) | [AI](/tags/AI.md), [自我探索](/tags/自我探索.md) | 2025-04-23 |
 | 從銀英傳提煉prompt：語場生成的起點 | [概覽](/conversation/topic/從銀英傳提煉prompt：語場生成的起點.topic.md) | [全文](/conversation/從銀英傳提煉prompt：語場生成的起點.md) | [動漫](/tags/動漫.md), [哲學](/tags/哲學.md), [自我探索](/tags/自我探索.md) | 2025-04-23 |

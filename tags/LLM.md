@@ -13,4 +13,5 @@ tags:
 
 | 標題 | 語場 | 時間 |
 |------|------------|--------|
-| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-05-05 |
+| [GPT重度使用者分析](/conversation/GPT重度使用者分析.md) | [LLM](/tags/LLM.md), [語場幽默](/tags/語場幽默.md) | 2025-05-25 |
+| [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-04-24 |

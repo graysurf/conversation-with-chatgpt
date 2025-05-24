@@ -8,6 +8,7 @@
 
 | 標題 | 概覽 | 全文 | 語場 | 時間 |
 |-------|------------|------|------|------|
+| GPT重度使用者分析 | [概覽](/conversation/topic/GPT重度使用者分析.topic.md) | [全文](/conversation/GPT重度使用者分析.md) | [LLM](/tags/LLM.md), [語場幽默](/tags/語場幽默.md) | 2025-05-25 |
 | 無需英雄的邏輯秩序：一位非蝙蝠俠型人才的職場現場論 | [概覽](/conversation/topic/無需英雄的邏輯秩序：一位非蝙蝠俠型人才的職場現場論.topic.md) | [全文](/conversation/無需英雄的邏輯秩序：一位非蝙蝠俠型人才的職場現場論.md) | [管理](/tags/管理.md), [自我探索](/tags/自我探索.md), [語場幽默](/tags/語場幽默.md) | 2025-05-07 |
 | 不存在的哲學家與未寫成的語錄 | [概覽](/conversation/topic/不存在的哲學家與未寫成的語錄.topic.md) | [全文](/conversation/不存在的哲學家與未寫成的語錄.md) | [哲學](/tags/哲學.md), [語場](/tags/語場.md) | 2025-05-07 |
 | 我就爛型政治人物與語場解構 | [概覽](/conversation/topic/我就爛型政治人物與語場解構.topic.md) | [全文](/conversation/我就爛型政治人物與語場解構.md) | [政治](/tags/政治.md), [語場](/tags/語場.md), [語場幽默](/tags/語場幽默.md) | 2025-05-05 |

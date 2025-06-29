@@ -53,6 +53,7 @@ module.exports = function (dv) {
     "# 🌀 語場",
     "# 😂 語場幽默",
     "# 🛠 軟體開發",
+    "# 🎭 社會劇場",
   ];
 
   for (let rawTag of tagsArray) {

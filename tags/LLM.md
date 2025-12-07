@@ -13,5 +13,6 @@ tags:
 
 | 標題 | 語場 | 時間 |
 |------|------------|--------|
+| [從聊天到落地：AI重度使用者的整合筆記](/conversation/從聊天到落地：AI重度使用者的整合筆記.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [軟體開發](/tags/軟體開發.md), [自我探索](/tags/自我探索.md) | 2025-12-07 |
 | [GPT重度使用者分析](/conversation/GPT重度使用者分析.md) | [LLM](/tags/LLM.md), [語場幽默](/tags/語場幽默.md) | 2025-05-25 |
 | [ChatGPT的記憶功能與使用者對話分離](/conversation/ChatGPT的記憶功能與使用者對話分離.md) | [AI](/tags/AI.md), [LLM](/tags/LLM.md), [語場](/tags/語場.md) | 2025-04-24 |

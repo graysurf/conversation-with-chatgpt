@@ -29,6 +29,8 @@
 
 > 註：目前標題以原始對話語境自然生成，未刻意統整風格。
 
+- [從聊天到落地：AI重度使用者的整合筆記](./conversation/topic/從聊天到落地：AI重度使用者的整合筆記.md)
+
 - [凶宅試睡與價值判準：在異常場域中的職責想像](./conversation/topic/凶宅試睡與價值判準：在異常場域中的職責想像.topic.md)
 
 - [GPT重度使用者分析](./conversation/topic/GPT重度使用者分析.topic.md)
